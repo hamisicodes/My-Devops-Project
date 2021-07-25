@@ -12,3 +12,6 @@
 - Logging sent to a centralsed source
 - Automated SDLC (CI/CD)
 - Publicly accessible via SSL secured endpoint
+
+### Author
+- Hamisi Ngao (ngaohamisi@gmail.com)
