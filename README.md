@@ -6,7 +6,7 @@
 - The focus of this project is not on the application Itself.This is not a development project.The code exists solely to mock some of the functionaity you may see in a real project
 
 ### Application design requirements
-- 12 factor Architecture
+- 12 factor Architecture.Read [here](https://12factor.net/)
 - Microservice application design
 - Basic monitoring and alerting
 - Logging sent to a centralsed source
